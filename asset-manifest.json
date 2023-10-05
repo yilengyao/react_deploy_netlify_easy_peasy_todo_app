@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/easy-peasy-todo-app/static/css/main.980526de.css",
-    "main.js": "/easy-peasy-todo-app/static/js/main.6a9a9049.js",
-    "index.html": "/easy-peasy-todo-app/index.html",
-    "main.980526de.css.map": "/easy-peasy-todo-app/static/css/main.980526de.css.map",
-    "main.6a9a9049.js.map": "/easy-peasy-todo-app/static/js/main.6a9a9049.js.map"
+    "main.css": "/easy_peasy_todo_app/static/css/main.980526de.css",
+    "main.js": "/easy_peasy_todo_app/static/js/main.6a9a9049.js",
+    "index.html": "/easy_peasy_todo_app/index.html",
+    "main.980526de.css.map": "/easy_peasy_todo_app/static/css/main.980526de.css.map",
+    "main.6a9a9049.js.map": "/easy_peasy_todo_app/static/js/main.6a9a9049.js.map"
   },
   "entrypoints": [
     "static/css/main.980526de.css",
