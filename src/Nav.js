@@ -17,7 +17,7 @@ const Nav = () => {
         post.title.toLowerCase().includes(search.toLowerCase()),
     );
 
-    setSearchResults(filteredResults);
+    setSearchResults(filteredResults.reverse());
   }, [posts, search, setSearchResults]);
 
   return (

@@ -15,7 +15,7 @@ const Home = ({ isLoading, fetchError }) => {
       {!isLoading &&
         !fetchError &&
         (searchResults.length ? (
-          <Feed />
+          <Feed posts={searchResults} />
         ) : (
           <p className="statusMsg">No posts to display.</p>
         ))}
