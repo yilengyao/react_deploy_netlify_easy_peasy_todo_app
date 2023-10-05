@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/easy-peasy-todo-app/static/css/main.980526de.css",
+    "main.js": "/easy-peasy-todo-app/static/js/main.6a9a9049.js",
+    "index.html": "/easy-peasy-todo-app/index.html",
+    "main.980526de.css.map": "/easy-peasy-todo-app/static/css/main.980526de.css.map",
+    "main.6a9a9049.js.map": "/easy-peasy-todo-app/static/js/main.6a9a9049.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.980526de.css",
+    "static/js/main.6a9a9049.js"
+  ]
+}
