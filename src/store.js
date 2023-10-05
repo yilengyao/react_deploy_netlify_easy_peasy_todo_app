@@ -4,7 +4,6 @@ import api from "./api/posts";
 export default createStore({
   posts: [],
   setPosts: action((state, payload) => {
-    console.log("setPosts");
     state.posts = payload;
   }),
   postTitle: "",
